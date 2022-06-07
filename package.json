@@ -1,0 +1,24 @@
+{
+  "name": "iad-lab2-clusterization",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "apexcharts": "^3.35.3",
+    "primeflex": "^3.2.1",
+    "primeicons": "^5.0.0",
+    "primevue": "^3.12.6",
+    "vue": "^3.2.36",
+    "vue-apexcharts": "^1.6.2",
+    "vue-google-charts": "^1.1.0",
+    "vue-router": "^4.0.15",
+    "vue3-apexcharts": "^1.4.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "vite": "^2.9.9"
+  }
+}
